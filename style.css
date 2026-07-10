@@ -154,3 +154,17 @@ border:1px solid #333;
 transform:scale(1.03);
 border-color:#ff7a00;
 }
+.transactions{
+padding:80px 8%;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+th,td{
+padding:18px;
+border-bottom:1px solid #333;
+text-align:left;
+}
