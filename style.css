@@ -168,3 +168,14 @@ padding:18px;
 border-bottom:1px solid #333;
 text-align:left;
 }
+.stats{
+display:flex;
+justify-content:space-around;
+padding:80px;
+text-align:center;
+}
+
+.stats h1{
+color:#ff7a00;
+font-size:55px;
+}
